@@ -1,4 +1,4 @@
-# Project Name : Business Loan Landing Page ![Tech Stack Used](https://img.shields.io/badge/Technologies-ReactJS-blue)
+# Project Name : Responsive Login Landing Page ![Tech Stack Used](https://img.shields.io/badge/Technologies-ReactJS-blue)
 
 ---
 
